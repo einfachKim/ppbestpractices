@@ -1,4 +1,5 @@
-Based on the video, here are the key takeaways:
+
+[Watch the Video Here](https://www.youtube.com/watch?v=PX_a55ghVLs)
 
 **Power Platform Best Practices**
 
